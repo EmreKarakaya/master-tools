@@ -1,0 +1,9 @@
+body{background:#eee;}
+#site_url{width:69%; float:left; padding-left:3px; background:#eee; border:none; height:29px;}
+#button_1{width:29%; color:#eee; float:right;  font-weight:bold; border:none; background:#363330; height:30px; cursor:pointer;}
+.w{width:500px; padding:5px; background:#fff; border:3px solid:#ddd; height:auto; min-height:300px; margin:auto; }
+.loadingImg{width:200px; margin:auto; margin-top:20px;}
+.stable{width:100%;}
+.stable tr{}
+.stable tr td{border:1px solid #ddd;}
+.link{float:right; width:18px; height:18px; margin-left:85px;}
